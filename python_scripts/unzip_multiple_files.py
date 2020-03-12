@@ -11,9 +11,9 @@ def unzip_files():
 
     for (root, dir, files) in os.walk(DIR):
         for fname in files:
-            print(fname)
             if('.zip' in fname):
                 zip_file = os.path.join(root, fname)
+                print("Extracting ", zip_file, '... Please wait...')
                 zipref = zipfile.ZipFile(zip_file, 'r')
                 zipref.extractall(root)
                 zipref.close()
