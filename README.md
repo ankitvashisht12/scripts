@@ -4,7 +4,7 @@
 
 **NOTE** : *Download and Install lastest version of [Python](https://www.python.org/downloads/)* 
 
-- **`unzip_multiple_files.py`** : 
+- **[`unzip_multiple_files.py`](https://github.com/ankitvashisht12/scripts/blob/master/python_scripts/unzip_multiple_files.py)** : 
  
 *Command :* `python unzip_multiple_files [parent_dir]`
 
