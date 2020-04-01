@@ -1,8 +1,26 @@
 # Scripts
 
+## Bash Scripts
+
+> **NOTE** : *Change permission to make bash script executable by using `chmod +x [SCRIPT-NAME]`*
+
+- **1. [`zip_files.sh`](https://github.com/ankitvashisht12/scripts/blob/master/bash/zip_files/zip_files.sh)** :
+
+> *Credit : [Ankush Garg](https://github.com/ankushgarg1998)*
+
+*Command* `./zip_files.sh [DIRECTORY_PATH]`
+
+This script will zip all the folders and files present in given directory *(as cmd argument)* recursively.
+
+*Usage*
+
+![](https://github.com/ankitvashisht12/scripts/blob/master/bash/zip_files/Example.png)
+
+![](https://github.com/ankitvashisht12/scripts/blob/master/bash/zip_files/Output.png)
+
 ## Python Scripts
 
-**NOTE** : *Download and Install lastest version of [Python](https://www.python.org/downloads/)* 
+> **NOTE** : *Download and Install lastest version of [Python](https://www.python.org/downloads/)* 
 
 - **1. [`unzip_multiple_files.py`](https://github.com/ankitvashisht12/scripts/blob/master/python_scripts/unzip_multiple_files.py)** : 
  
